@@ -9,35 +9,55 @@ public class Model {
     XO[][] board;
 
     public boolean isEmpty(int x, int y) {
+
+        //TODO
+
         return true;
     }
 
     public void setBoard(int x, int y, XO board) {
 
+        //TODO
+
     }
 /*
     public XO[][] getBoard() {
-        /// kod
+
+        //TODO
+
     }
 */
 
     public void reset() {
 
+        //TODO
+
     }
 
     public boolean aiWins() {
+
+        //TODO
+
         return true;
     }
 
     public boolean manWins() {
+
+        //TODO
+
         return true;
     }
 
     public boolean draw() {
+
+        //TODO
+
         return true;
     }
 
     public void changed() {
+
+        //TODO
 
     }
 }
