@@ -22,5 +22,9 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="EasyFSM-0.0.006" level="project" />
+    <orderEntry type="library" name="commons-configuration2-2.2" level="project" />
+    <orderEntry type="library" name="commons-logging-1.2" level="project" />
+    <orderEntry type="library" name="com.globalmentor:globalmentor-apache-commons-configuration2:1.0.0" level="project" />
   </component>
 </module>
